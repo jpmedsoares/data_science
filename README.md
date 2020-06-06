@@ -1,6 +1,3 @@
-# data_science
-a repo to store my DS projects
-
 <p align="center">
   <img src="banner.png" >
 </p>
