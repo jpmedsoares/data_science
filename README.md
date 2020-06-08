@@ -23,7 +23,7 @@ Nowadays I am attending an Investments and Private Banking MBA at Ibmec, and als
 ## Projetos:
 Those are my current DS projects:
 
-* **Loren Ipsum** https://somelink.com
+* **Airbnb data analysis for the city of Porto** https://bit.ly/3f2pXd5
 
 ---
 
